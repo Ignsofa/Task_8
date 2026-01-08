@@ -32,3 +32,13 @@ storybook-static
 
 # tests
 /coverage/
+
+# env files
+.env
+
+# tanstack cache
+.tanstack
+
+# optional tooling
+.husky
+e2e
